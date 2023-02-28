@@ -7,8 +7,8 @@
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/responsive-singlepricegridcomponent-HPx-6ApQGY
-- Live Site URL: https://x3python.github.io/Frontend-Mentor---Single-Price-Grid-Component/
+- Solution URL: https://www.frontendmentor.io/solutions/huddlelandingpagewithsingleintroductorysection-rp-Qbu04Kc
+- Live Site URL: https://x3python.github.io/Frontend-Mentor---Huddle-landing-page-with-single-introductory-section/
 
 ### Built with
 
